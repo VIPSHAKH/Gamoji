@@ -1,0 +1,2 @@
+# Gamoji
+Game with emoji.
